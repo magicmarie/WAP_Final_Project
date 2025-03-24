@@ -1,0 +1,64 @@
+### GET all posts
+GET http://localhost:3000/posts
+
+### POST a new post
+POST http://localhost:3000/posts
+Content-Type: application/json
+
+{
+  "title": "Introduction to React hooks",
+  "content": "Lorem ipsum...",
+  "author": "Jane Doe",
+  "tags": [
+    "react",
+    "frontend",
+    "hooks"
+  ],
+  "bookmarked": false
+}
+
+
+### DELETE a post: PASS
+DELETE http://localhost:3000/posts/6ec0bd7f-11c0-46da-975e-2a8ad9ebae0b
+
+### DELETE a post: FAIL: POST NOT FOUND
+DELETE http://localhost:3000/posts/1
+
+### GET post by title: PASS: FOUND
+GET http://localhost:3000/posts/search?q=Introduction%20to%20WAP
+
+### GET post by title: PASS: EMPTY ARRAY
+GET http://localhost:3000/posts/search?q=QWERTY
+
+
+### GET all comments of a particular post
+GET http://localhost:3000/posts/6ec0bd7f-11c0-43da-975e-2a8ad9ebae0b/comments
+
+
+### DELETE a comment of a particular post :PASS
+DELETE http://localhost:3000/posts/7ec0bd7f-11c0-43da-975e-2a8ad9ebae0b/comments/450e8400-e29b-41d4-a716-446655440000
+
+### DELETE a comment of a particular post :FAIL
+DELETE http://localhost:3000/posts/7ec0bd7f--43da-975e-2a8ad9ebae0b/comments/450e8400-e29b-41d4-a716-446655440000
+
+
+### POST a new comment to a particular post: PASS
+POST http://localhost:3000/posts/33643725-f0e9-4d93-b933-417edca28c78/comments
+Content-Type: application/json
+
+{
+  "author": "Jane Smith",
+  "content": "Great post!"
+}
+
+### POST a new comment to a particular post: FAIL
+POST http://localhost:3000/posts/9ec0bd7f-11c0-43da-975e-2a8ad9ebae0b/comments
+Content-Type: application/json
+
+{
+  "author": "Jane Smith",
+  "content": "Great post!"
+}
+
+### export all posts
+GET http://localhost:3000/posts/export

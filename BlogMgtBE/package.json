@@ -1,0 +1,39 @@
+{
+  "name": "final-project-magicmarie",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ERpJHKd2) [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18697520) # CS472 Final Project March 2025: Blog Management Platform Build a blog management platform where users can create, and interact with blog posts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon --ext ts --exec 'npx tsx app.ts'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maharishi-university/final-project-magicmarie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maharishi-university/final-project-magicmarie/issues"
+  },
+  "homepage": "https://github.com/maharishi-university/final-project-magicmarie#readme",
+  "dependencies": {
+    "@types/archiver": "^6.0.3",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/json2md": "^1.5.4",
+    "@types/morgan": "^1.9.9",
+    "archiver": "^7.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "json2md": "^2.0.2",
+    "morgan": "^1.10.0",
+    "node-filesystem": "^0.0.22",
+    "uuid": "^11.1.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}

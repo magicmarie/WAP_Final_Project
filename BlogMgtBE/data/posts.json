@@ -1,0 +1,162 @@
+[
+  {
+    "id": "45cf0fce-630a-441b-ac09-7f9e810996d2",
+    "date": "2025-03-19T16:21:48.052Z",
+    "title": "wap",
+    "content": "cs472",
+    "author": "marie",
+    "tags": [
+      "react",
+      "ts"
+    ],
+    "bookmarked": true
+  },
+  {
+    "id": "eb332371-cf9a-4616-ae23-7770fba2e818",
+    "date": "2025-03-18T16:38:02.152Z",
+    "title": "Whitney, my love",
+    "content": "AS THEIR ELEGANT TRAVELLING CHAISE ROCKED AND\nSWAYED along the rutted country road, Lady Anne Gilbert leaned\nher cheek against her husband's shoulder and heaved a long,\nimpatient sigh. \"Another whole hour until we arrive, and already the\nsuspense is positively gnawing at me. I keep wondering what\nWhitney will be like now that she's grown up.\"",
+    "author": "Judith Mcnaught",
+    "tags": [
+      "love",
+      " family",
+      " patience",
+      " God"
+    ],
+    "bookmarked": false
+  },
+  {
+    "id": "4435a2ac-bae4-4118-885f-a21fab80ae3e",
+    "date": "2025-03-17T22:17:46.295Z",
+    "title": "Asaads wap",
+    "content": "is hard asf",
+    "author": "marie",
+    "tags": [
+      "GOD",
+      " info"
+    ],
+    "bookmarked": true
+  },
+  {
+    "id": "fbef9698-1ae9-4947-8299-d0eb1331d62c",
+    "date": "2025-03-17T21:59:28.801Z",
+    "title": "The Creation of the Universe,",
+    "content": "In the beginning, the universe was shaped by the will of the gods. From the cosmic void, they brought light, matter, and life. The creation stories of various cultures intertwine to tell a story of divine craftsmanship and cosmic order.",
+    "author": "kxjfnbu",
+    "tags": [
+      "Creation",
+      " Mythology",
+      " God",
+      " Cosmos",
+      " Spirituality"
+    ],
+    "bookmarked": true
+  },
+  {
+    "id": "8e2eb9f9-498c-436c-b320-45984c6bad3b",
+    "date": "2025-03-17T21:58:40.684Z",
+    "title": "Reducers",
+    "content": "Actions describe the fact that something needs to be happened, but don't specify how the application's state changes in response. This is the job of reducers.\nReducers specify how the state changes in response to Actions. All Reducers must be pure functions:\n•\nThey produce the same output given the same input\n•\nThey don’t mutate state",
+    "author": "Asaad",
+    "tags": [
+      "Redux",
+      " React"
+    ],
+    "bookmarked": true
+  },
+  {
+    "id": "42871db6-67eb-48e6-8689-8ba781c40fe3",
+    "date": "2025-03-17T21:54:49.121Z",
+    "title": "understanding marie",
+    "content": "omukiga",
+    "author": "ruhanga",
+    "tags": [
+      "qwerty"
+    ],
+    "bookmarked": true
+  },
+  {
+    "id": "5205c16b-00f0-4590-b548-b7457c3b7ad7",
+    "date": "2025-03-17T21:48:28.714Z",
+    "title": "THE LIFE OF MARIE",
+    "content": "THE MUKIGA FROM UGANDAf",
+    "author": "MARIE",
+    "tags": [
+      "SE",
+      " GOD"
+    ],
+    "bookmarked": true
+  },
+  {
+    "id": "5973a53e-fc5e-4112-be68-23ea990c3c4c",
+    "date": "2025-03-17T21:44:30.538Z",
+    "title": "qfcerg tjr wtrfgthat",
+    "content": "dgserf egafewdf efvwef sfvewFEWD",
+    "author": "MARIAM",
+    "tags": [
+      "QWERTY"
+    ],
+    "bookmarked": true
+  },
+  {
+    "id": "6ec0bd7f-11c0-43da-975e-2a8ad9ebae0b",
+    "title": "Omukiga wa Bukinda, Kabale",
+    "content": "Ahiire ebyo, n'orugendo",
+    "author": "John Doe",
+    "tags": [
+      "Ug",
+      " Kabale"
+    ],
+    "date": "2026-01-10T12:34:56Z",
+    "bookmarked": true
+  },
+  {
+    "id": "a1bb35c3-cfcd-4359-bddf-fa041fe95967",
+    "date": "2025-03-15T13:58:58.645Z",
+    "title": "Introduction to React hooks",
+    "content": "Lorem ipsum...",
+    "author": "Jane Doe",
+    "tags": [
+      "react",
+      "frontend",
+      "hooks"
+    ],
+    "bookmarked": false
+  },
+  {
+    "id": "2c226b52-af30-4b6b-aa3c-b51fb6652e73",
+    "date": "2025-03-15T15:19:35.821Z",
+    "title": "Introduction to React hooks",
+    "content": "Lorem ipsum...",
+    "author": "Jane Doe",
+    "tags": [
+      "react",
+      "frontend",
+      "hooks"
+    ],
+    "bookmarked": false
+  },
+  {
+    "id": "e1294fb5-2dd0-47a8-80a2-109518f3f0c2",
+    "date": "2025-03-17T15:21:32.156Z",
+    "title": "Flux Architecture and Redux",
+    "content": "Redux architecture is a predictable state management pattern, centralizing the application's state in a single store and enabling consistent state updates through unidirectional data flow and pure reducer functions.\nThe data flows in a unidirectional cycle: actions are dispatched to describe state changes, reducers process these actions to compute a new state, and a new updated state is produced, which then notifies subscribed components to re-render.",
+    "author": "qwerty",
+    "tags": [
+      "Redux",
+      " Flux"
+    ],
+    "bookmarked": false
+  },
+  {
+    "id": "fb4dda06-16c7-4271-a1dc-0ad98d5114f9",
+    "date": "2025-03-17T15:28:23.497Z",
+    "title": "sjcleiqfnbiuwejdnck",
+    "content": "senfdijvnerifneiqnfvj",
+    "author": "lsejnvfijlenf3iwfnvern",
+    "tags": [
+      "wjenfdj"
+    ],
+    "bookmarked": true
+  }
+]
