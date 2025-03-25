@@ -1,9 +1,3 @@
-[Loom recording of the Blog management platform](https://www.loom.com/share/0fbcd34e857c456baf38f3e13b2a11a5?sid=cca6d0ba-913d-4862-8b53-6e589536f10f)
-
-[Another showing responsiveness because i forgot to add it in the previous](https://www.loom.com/share/72d573f1cdd44d54ace69a4ba13d91bd?sid=fa82df1b-20f7-4475-9421-4535b5bef17e)
-
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ERpJHKd2)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18697520)
 # CS472 Final Project March 2025: Blog Management Platform
 Build a blog management platform where users can create, and interact with blog posts.
 
